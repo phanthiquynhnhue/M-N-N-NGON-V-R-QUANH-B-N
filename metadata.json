@@ -1,0 +1,8 @@
+{
+  "name": "Ăn Gì Đây? - Tìm Quán Ngon Rẻ AI",
+  "description": "Ứng dụng tìm kiếm quán ăn ngon, bổ, rẻ theo khu vực, trường đại học, ngân sách và món ăn với sự hỗ trợ của Gemini AI và Google Search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
