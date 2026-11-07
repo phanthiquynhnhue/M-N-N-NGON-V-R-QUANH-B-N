@@ -1,6 +1,6 @@
 {
-  "name": "Ăn Gì Đây? - Tìm Quán Ngon Rẻ AI",
-  "description": "Ứng dụng tìm kiếm quán ăn ngon, bổ, rẻ theo khu vực, trường đại học, ngân sách và món ăn với sự hỗ trợ của Gemini AI và Google Search.",
+  "name": "Hôm Nay Ăn Gì? - Ăn Ngon Mỗi Ngày",
+  "description": "Ứng dụng tìm kiếm món ăn, quán ăn gần bạn tiêu chí GẦN – RẺ – NGON – CHẤT LƯỢNG dành cho học sinh, sinh viên và giới trẻ Việt Nam.",
   "requestFramePermissions": [
     "geolocation"
   ],
